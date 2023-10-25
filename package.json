@@ -1,0 +1,26 @@
+{
+  "name": "veramo-cli-demo",
+  "version": "1.0.0",
+  "description": "Example of using the veramo-cli with a dev container",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jac18281828/Veramo-cli-demo.git"
+  },
+  "keywords": [
+    "veramo",
+    "cli"
+  ],
+  "dependencies": {
+    "@veramo/cli": "^5.5.3"
+  },
+  "author": "John Cairns",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jac18281828/veramo-cli-demo/issues"
+  },
+  "homepage": "https://github.com/jac18281828/veramo-cli-demo#readme"
+}
